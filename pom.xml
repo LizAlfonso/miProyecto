@@ -11,4 +11,8 @@
         <maven.compiler.target>16</maven.compiler.target>
     </properties>
     <name>miProyecto</name>
+    <dependencies>
+        Ni idea...a los que vimos la grabación nos dejó ignorados.com porque mandó eso por el chat
+        y obvio no lo podemos ni ver
+    </dependencies>
 </project>
